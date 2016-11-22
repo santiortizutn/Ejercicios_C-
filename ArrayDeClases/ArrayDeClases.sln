@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexador", "Indexador\Indexador.csproj", "{1D611044-2B73-4726-8936-13DBB45D4CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcepcionBasica", "ExcepcionBasica\ExcepcionBasica.csproj", "{EC1E8802-E47B-40C4-97EA-1F24A6F239BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D611044-2B73-4726-8936-13DBB45D4CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D611044-2B73-4726-8936-13DBB45D4CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D611044-2B73-4726-8936-13DBB45D4CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D611044-2B73-4726-8936-13DBB45D4CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1E8802-E47B-40C4-97EA-1F24A6F239BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E8802-E47B-40C4-97EA-1F24A6F239BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E8802-E47B-40C4-97EA-1F24A6F239BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E8802-E47B-40C4-97EA-1F24A6F239BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

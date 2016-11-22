@@ -1,0 +1,12 @@
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe.config
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.pdb
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.exe
+D:\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe.config
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.exe
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.exe
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\bin\Debug\ExcepcionBasica.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\ExcepcionBasica\obj\Debug\ExcepcionBasica.csprojResolveAssemblyReference.cache

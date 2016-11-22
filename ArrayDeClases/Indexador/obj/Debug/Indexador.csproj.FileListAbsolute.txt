@@ -1,0 +1,11 @@
+D:\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.exe.config
+D:\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.exe
+D:\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.pdb
+D:\Ortiz progII\ArrayDeClases\Indexador\obj\Debug\Indexador.exe
+D:\Ortiz progII\ArrayDeClases\Indexador\obj\Debug\Indexador.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.exe.config
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\obj\Debug\Indexador.exe
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\obj\Debug\Indexador.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.exe
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\bin\Debug\Indexador.pdb
+E:\Segundo cuatrimestre\Ortiz progII\ArrayDeClases\Indexador\obj\Debug\Indexador.csprojResolveAssemblyReference.cache
