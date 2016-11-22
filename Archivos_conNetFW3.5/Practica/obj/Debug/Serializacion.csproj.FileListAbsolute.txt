@@ -1,0 +1,7 @@
+D:\Ortiz progII\Archivos_conNetFW3.5\Practica\bin\Debug\Practica.exe
+D:\Ortiz progII\Archivos_conNetFW3.5\Practica\bin\Debug\Practica.pdb
+D:\Ortiz progII\Archivos_conNetFW3.5\Practica\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\Archivos_conNetFW3.5\Practica\obj\Debug\Practica.exe
+D:\Ortiz progII\Archivos_conNetFW3.5\Practica\obj\Debug\Practica.pdb
+G:\Segundo cuatrimestre\Ortiz progII\Archivos_conNetFW3.5\Practica\obj\Debug\Practica.exe
+G:\Segundo cuatrimestre\Ortiz progII\Archivos_conNetFW3.5\Practica\obj\Debug\Practica.pdb

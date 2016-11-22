@@ -1,0 +1,14 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+E:\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+E:\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\TestFallas\TestUnitario\bin\Debug\Test.dll
+E:\TestFallas\TestUnitario\bin\Debug\Test.pdb
+E:\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+E:\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+E:\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

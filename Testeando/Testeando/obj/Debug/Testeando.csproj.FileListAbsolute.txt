@@ -1,0 +1,7 @@
+D:\Ortiz progII\Testeando\Testeando\bin\Debug\Testeando.dll
+D:\Ortiz progII\Testeando\Testeando\bin\Debug\Testeando.pdb
+D:\Ortiz progII\Testeando\Testeando\bin\Debug\Practica.exe
+D:\Ortiz progII\Testeando\Testeando\bin\Debug\Practica.pdb
+D:\Ortiz progII\Testeando\Testeando\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\Testeando\Testeando\obj\Debug\Testeando.dll
+D:\Ortiz progII\Testeando\Testeando\obj\Debug\Testeando.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica", "Practica\Practica.csproj", "{CC64A9F9-6470-4AE9-8AB3-610FAEDB545D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeando", "Testeando\Testeando.csproj", "{AE2258D5-A06B-4204-903D-EF4D1C088BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC64A9F9-6470-4AE9-8AB3-610FAEDB545D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC64A9F9-6470-4AE9-8AB3-610FAEDB545D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC64A9F9-6470-4AE9-8AB3-610FAEDB545D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC64A9F9-6470-4AE9-8AB3-610FAEDB545D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2258D5-A06B-4204-903D-EF4D1C088BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2258D5-A06B-4204-903D-EF4D1C088BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2258D5-A06B-4204-903D-EF4D1C088BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2258D5-A06B-4204-903D-EF4D1C088BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

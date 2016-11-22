@@ -1,0 +1,9 @@
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\bin\Debug\PracticaBDD.exe.config
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\bin\Debug\PracticaBDD.exe
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\bin\Debug\PracticaBDD.pdb
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.Form1.resources
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.Properties.Resources.resources
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.csproj.GenerateResource.Cache
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.exe
+D:\Pollio Juan Martin\EjemploBaseDeDatos\PracticaBDD\obj\Debug\PracticaBDD.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacion", "Practica\Serializacion.csproj", "{46BB9D9C-F98F-4338-8D8C-5CD7E9579188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46BB9D9C-F98F-4338-8D8C-5CD7E9579188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BB9D9C-F98F-4338-8D8C-5CD7E9579188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BB9D9C-F98F-4338-8D8C-5CD7E9579188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BB9D9C-F98F-4338-8D8C-5CD7E9579188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
