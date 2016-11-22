@@ -1,0 +1,6 @@
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\bin\Debug\Practica.exe.config
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\obj\Debug\Practica.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\bin\Debug\Practica.exe
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\bin\Debug\Practica.pdb
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\obj\Debug\Practica.exe
+D:\Ortiz progII\EjercicioDeInterfaces\Practica\obj\Debug\Practica.pdb

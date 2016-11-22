@@ -1,0 +1,13 @@
+D:\OrizProg2\Hilos\Form2\bin\Debug\Form2.exe.config
+D:\OrizProg2\Hilos\Form2\bin\Debug\Form2.exe
+D:\OrizProg2\Hilos\Form2\bin\Debug\Form2.pdb
+D:\OrizProg2\Hilos\Form2\bin\Debug\Pelotita_Con_Thread.dll
+D:\OrizProg2\Hilos\Form2\bin\Debug\Pelotita_Sin_Thread.dll
+D:\OrizProg2\Hilos\Form2\bin\Debug\Pelotita_Con_Thread.pdb
+D:\OrizProg2\Hilos\Form2\bin\Debug\Pelotita_Sin_Thread.pdb
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.csprojResolveAssemblyReference.cache
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.Form1.resources
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.Properties.Resources.resources
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.csproj.GenerateResource.Cache
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.exe
+D:\OrizProg2\Hilos\Form2\obj\Debug\Form2.pdb

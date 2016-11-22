@@ -1,0 +1,9 @@
+D:\OrizProg2\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.dll
+D:\OrizProg2\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.pdb
+D:\OrizProg2\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.dll
+D:\OrizProg2\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.pdb
+F:\Segundo cuatrimestre\Ortiz progII\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.dll
+F:\Segundo cuatrimestre\Ortiz progII\Hilos\Pelotita_Con_Thread\bin\Debug\Pelotita_Con_Thread.pdb
+F:\Segundo cuatrimestre\Ortiz progII\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.csprojResolveAssemblyReference.cache
+F:\Segundo cuatrimestre\Ortiz progII\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.dll
+F:\Segundo cuatrimestre\Ortiz progII\Hilos\Pelotita_Con_Thread\obj\Debug\Pelotita_Con_Thread.pdb
