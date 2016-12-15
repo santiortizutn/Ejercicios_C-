@@ -1,0 +1,9 @@
+D:\Ortiz progII\Herencia\Practica1\bin\Debug\Practica1.exe.config
+D:\Ortiz progII\Herencia\Practica1\bin\Debug\Practica1.exe
+D:\Ortiz progII\Herencia\Practica1\bin\Debug\Practica1.pdb
+D:\Ortiz progII\Herencia\Practica1\obj\Debug\Practica1.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\Herencia\Practica1\obj\Debug\Practica1.exe
+D:\Ortiz progII\Herencia\Practica1\obj\Debug\Practica1.pdb
+G:\Segundo cuatrimestre\Ortiz progII\Herencia\Practica1\bin\Debug\Practica1.exe.config
+G:\Segundo cuatrimestre\Ortiz progII\Herencia\Practica1\obj\Debug\Practica1.exe
+G:\Segundo cuatrimestre\Ortiz progII\Herencia\Practica1\obj\Debug\Practica1.pdb

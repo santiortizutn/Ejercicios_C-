@@ -1,0 +1,9 @@
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\bin\Debug\EjercicioARRAys.exe.config
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\bin\Debug\EjercicioARRAys.exe
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\bin\Debug\EjercicioARRAys.pdb
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\obj\Debug\EjercicioARRAys.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\obj\Debug\EjercicioARRAys.exe
+D:\Ortiz progII\primeraClase\sobrecargas\EjercicioARRAys\obj\Debug\EjercicioARRAys.pdb
+E:\Segundo cuatrimestre\Ortiz progII\sobrecargas\EjercicioARRAys\bin\Debug\EjercicioARRAys.exe.config
+E:\Segundo cuatrimestre\Ortiz progII\sobrecargas\EjercicioARRAys\obj\Debug\EjercicioARRAys.exe
+E:\Segundo cuatrimestre\Ortiz progII\sobrecargas\EjercicioARRAys\obj\Debug\EjercicioARRAys.pdb

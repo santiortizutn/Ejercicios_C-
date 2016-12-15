@@ -1,0 +1,9 @@
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\bin\Debug\practica3.exe.config
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\bin\Debug\practica3.exe
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\bin\Debug\practica3.pdb
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.Form1.resources
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.Properties.Resources.resources
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.csproj.GenerateResource.Cache
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.exe
+D:\Ortiz progII\primeraClase\sobrecargas\practica3\obj\Debug\practica3.pdb

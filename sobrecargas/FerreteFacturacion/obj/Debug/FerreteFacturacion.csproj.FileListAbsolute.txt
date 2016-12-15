@@ -1,0 +1,9 @@
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe.config
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\bin\Debug\FerreteFacturacion.pdb
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.csprojResolveAssemblyReference.cache
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.Form1.resources
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.Properties.Resources.resources
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.csproj.GenerateResource.Cache
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.exe
+D:\Ortiz progII\primeraClase\sobrecargas\FerreteFacturacion\obj\Debug\FerreteFacturacion.pdb
